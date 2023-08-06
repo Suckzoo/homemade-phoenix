@@ -1,0 +1,6 @@
+{
+    "sketch": "homemade-phoenix.ino",
+    "output": "build",
+    "board": "arduino:avr:leonardo",
+    "port": "COM3"
+}
